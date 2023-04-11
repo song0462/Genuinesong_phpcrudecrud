@@ -19,16 +19,16 @@ Section #4 – Step by step instructions on how to create a VirtualBox Virtual M
 	4.	Create a VDI hard disk -> select Dynamically allocated storage -> and delegate 40GB of storage.
 
 Section #5 – Step by step instructions on how to install the Ubuntu 20.04 Operating System.
-	1.On the web, locate a downloadable Disc Image File of Ubuntu 20.04
-	2.Adding ubuntu as a disc in VirtualBox
-		a.On the newly created virtual machine, go to “settings” -> “Storage” -> select the “Empty” disc -> Select “Choose a disk file…” -> select the Disc Image File of Ubuntu that was installed as a virtual CD Ram.
-	3.Configure Ubuntu in VirtualBox
-		a.Select “Start”
-		b.Let the system load then Select “English” as a language -> “English (US)” keyboard layout.
-		c.No proxy server or mirror address needed.
-		d.Leave the Network Connections, Proxy, Ubuntu Archive Mirror, Guided Storage Configuration, and storage configuration as default.
-		e.Enter your credentials for your “Profile setup”
-		f.Let the system update and complete which should take several minutes
+1.	On the web, locate a downloadable Disc Image File of Ubuntu 20.04
+2.	Adding ubuntu as a disc in VirtualBox
+	1.	On the newly created virtual machine, go to “settings” -> “Storage” -> select the “Empty” disc -> Select “Choose a disk file…” -> select the Disc Image File of Ubuntu that was installed as a virtual CD Ram.
+3.	Configure Ubuntu in VirtualBox
+	a.	Select “Start”
+	b.	Let the system load then Select “English” as a language -> “English (US)” keyboard layout.
+	c.	No proxy server or mirror address needed.
+	d.	Leave the Network Connections, Proxy, Ubuntu Archive Mirror, Guided Storage Configuration, and storage configuration as default.
+	e.	Enter your credentials for your “Profile setup”
+	f.	Let the system update and complete which should take several minutes
 
 Section #6 – Step by step instructions on how to install Apache 2 and PHP
 	1.Install Apache
