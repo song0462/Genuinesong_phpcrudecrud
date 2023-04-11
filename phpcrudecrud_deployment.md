@@ -11,12 +11,12 @@ Section 3: Virtual Machine configurations: The suggested configurations to run t
 	40GB of disk space
 
 Section #4 – Step by step instructions on how to create a VirtualBox Virtual Machine.
-	1.Install and configure your platform’s Type 2 hypervisor such as VirtualBox.
-	2.Create a new virtual machine within VirtualBox.
-		a .On the ribbon menu of VirtualBox, go to “Machine” -> select “New”
-		b.Choose your “Name”, “Type”, and “Version” of an operating system.
-		c.Delegate 2GB of base memory
-		d.Create a VDI hard disk -> select Dynamically allocated storage -> and delegate 40GB of storage.
+	-Install and configure your platform’s Type 2 hypervisor such as VirtualBox.
+	-Create a new virtual machine within VirtualBox.
+		-On the ribbon menu of VirtualBox, go to “Machine” -> select “New”
+		-Choose your “Name”, “Type”, and “Version” of an operating system.
+		-Delegate 2GB of base memory
+		-Create a VDI hard disk -> select Dynamically allocated storage -> and delegate 40GB of storage.
 
 Section #5 – Step by step instructions on how to install the Ubuntu 20.04 Operating System.
 	1.On the web, locate a downloadable Disc Image File of Ubuntu 20.04
