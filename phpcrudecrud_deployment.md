@@ -5,10 +5,10 @@ Section #2 that describes at a high level what the general steps are to create a
 	Install and configure VirtualBox, then create a new machine allocating all the minimum machines resources with Ubuntu 20.04 as its CD ram drive. Certain packages, including Apache2, PHP, and MySQL, will need to be installed to run the PHP Crude Crud application. Once they are all installed, the PHP Crude Crud app package can be pushed to the root of the server and deployed as a web application accessing it with an IP Address. 
 	
 Section 3: Virtual Machine configurations: The suggested configurations to run the PHP Crude Crud application on a virtual machine consists of:
-	-Ubuntu 20.04 operating system
-	-1 or 2 processors
-	-2048 MB of base memory
-	-40GB of disk space
+-	Ubuntu 20.04 operating system
+-	1 or 2 processors
+-	2048 MB of base memory
+-	40GB of disk space
 
 Section #4 – Step by step instructions on how to create a VirtualBox Virtual Machine.
 	1. Install and configure your platform’s Type 2 hypervisor such as VirtualBox.
