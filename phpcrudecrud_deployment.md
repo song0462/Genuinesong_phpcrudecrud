@@ -1,8 +1,8 @@
 Section #1 describes, in brief, the purpose of the PHP Crude CRUD Application.  What does it allow the user to do?
-	The PHP Crude Crud application allows a user to deploy a LAMP stack web application through a virtual machine to allow a user to search, add, update, delete, and find employees stored on a database.
+-	The PHP Crude Crud application allows a user to deploy a LAMP stack web application through a virtual machine to allow a user to search, add, update, delete, and find employees stored on a database.
 
 Section #2 that describes at a high level what the general steps are to create and an entirely new application architecture and stack from the "ground up."  Start with the provisioning of the Virtual Machine.  End with the deploying the PHP Crude CRUD app.  Just a few sentences.  Again this is just an overview, so the admin knows what's involved at the high-level.
-	Install and configure VirtualBox, then create a new machine allocating all the minimum machines resources with Ubuntu 20.04 as its CD ram drive. Certain packages, including Apache2, PHP, and MySQL, will need to be installed to run the PHP Crude Crud application. Once they are all installed, the PHP Crude Crud app package can be pushed to the root of the server and deployed as a web application accessing it with an IP Address. 
+-	Install and configure VirtualBox, then create a new machine allocating all the minimum machines resources with Ubuntu 20.04 as its CD ram drive. Certain packages, including Apache2, PHP, and MySQL, will need to be installed to run the PHP Crude Crud application. Once they are all installed, the PHP Crude Crud app package can be pushed to the root of the server and deployed as a web application accessing it with an IP Address. 
 	
 Section 3: Virtual Machine configurations: The suggested configurations to run the PHP Crude Crud application on a virtual machine consists of:
 -	Ubuntu 20.04 operating system
@@ -65,5 +65,5 @@ Section #9 – Step by step instructions on how to deploy the PHP Crude CRUD App
 3.	The PHP Crude Crud contains an index.html which will represent the home page of PHP crude crud.
 
 Section #10 - Suggest system tests to run to make sure the Application is working.
-	System tests that can be run include searching for an employee with the last name “Weedman”. There should be an expected of over 10 results that arise,
+-	System tests that can be run include searching for an employee with the last name “Weedman”. There should be an expected of over 10 results that arise,
 Adding a test employee to the database through the web application, updating the test employee records, searching the test employee, and deleting the test employee. This will ensure the application is working and tied to the database. All of this can be used by clicking on the hyperlinks. 
