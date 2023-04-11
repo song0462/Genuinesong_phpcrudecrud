@@ -11,8 +11,8 @@ Section 3: Virtual Machine configurations: The suggested configurations to run t
 	40GB of disk space
 
 Section #4 – Step by step instructions on how to create a VirtualBox Virtual Machine.
-	-Install and configure your platform’s Type 2 hypervisor such as VirtualBox.
-	-Create a new virtual machine within VirtualBox.
+	1. Install and configure your platform’s Type 2 hypervisor such as VirtualBox.
+	2. Create a new virtual machine within VirtualBox.
 		-On the ribbon menu of VirtualBox, go to “Machine” -> select “New”
 		-Choose your “Name”, “Type”, and “Version” of an operating system.
 		-Delegate 2GB of base memory
